@@ -1,3 +1,5 @@
+# Meta-MDD meta-analysis
+
 This is the repository for the study:
 
 "Network connectivity in major depression: extending previous findings from a large public dataset by meta-analysis across sites"
